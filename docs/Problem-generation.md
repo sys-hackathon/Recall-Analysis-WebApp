@@ -1,12 +1,12 @@
 # Sysco Meeting Notes for Problem Generation
 
-# Context
+## Context
 
 Need to understand the challenges faced by Sysco in managing their inventory and processing orders and fulfilling them. Also, need to understand the types of tracking systems used by Sysco to track the movement of materials within the warehouse. This will be utilized to generate problems for the Sysco case study, and finalize the problem statement for this repository.
 
 We talked with two employees from Sysco, who are responsible for managing the warehouse operations from different contexts. They provided us with insights into the challenges faced by Sysco in managing their inventory and processing orders and fulfilling them. They also described the types of tracking systems used by Sysco to track the movement of materials within the warehouse.
 
-# Sysco Warehouse Inventory Management System (SWIMS)
+## Sysco Warehouse Inventory Management System (SWIMS)
 
 AKA 'SWIMS; Sysco Warehouse Inventory Management System'
 Sysco uses a warehouse management system (WMS) to manage their inventory. The WMS is a software application that supports the day-to-day operations in a warehouse. The WMS is used to control the movement and storage of materials within a warehouse and process the associated transactions, including shipping, receiving, putaway and picking. The WMS guides the warehouse staff through their daily tasks, and tracks the materials stored in the warehouse.
@@ -19,10 +19,9 @@ Sysco uses a warehouse management system (WMS) to manage their inventory. The WM
 - 69,000 employees
 - 425,000 customers
 - 1.2B cases of products
+- 330 distribution facilities
 
-
-
-## processes
+## Processes
 
 1. Receiving
 2. Putaway
@@ -52,5 +51,3 @@ Sysco uses a warehouse management system (WMS) to manage their inventory. The WM
 
 - Sysco way to track the aging of products
 
-
-Possible benefits of using a WMS:
