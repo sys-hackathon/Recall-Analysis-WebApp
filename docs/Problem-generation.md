@@ -51,3 +51,6 @@ Sysco uses a warehouse management system (WMS) to manage their inventory. The WM
 # Insights
 
 - Sysco way to track the aging of products
+
+
+Possible benefits of using a WMS:
