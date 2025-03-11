@@ -47,3 +47,7 @@ Sysco uses a warehouse management system (WMS) to manage their inventory. The WM
 - What are the main challenges faced by Sysco in managing their inventory?
 - What are the main challenges faced by Sysco in processing orders and fulfilling them?
 - Could you describe the types of tracking systems used by Sysco to track the movement of materials within the warehouse, perhaps go through an example of how food item "blueberries" are tracked from the time they are received at the warehouse to the time they are shipped to a customer?
+
+# Insights
+
+- Sysco way to track the aging of products
